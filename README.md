@@ -13,7 +13,5 @@ This project predicts human emotions from text using Machine Learning and Stream
 - Streamlit
 - NLP (TF-IDF / CountVectorizer)
 
-## ▶️ Run Locally
-```bash
-pip install -r requirements.txt
-streamlit run app.py
+## 🌐 Live App
+https://emotion-prediction-streamlit.streamlit.app
